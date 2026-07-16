@@ -1,6 +1,6 @@
 <!-- ======================= ANIMATED WELCOME HEADER ======================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F9DFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%8E%93;Python+Developer+%F0%9F%90%8D;Backend+%26+Machine+Learning+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F9DFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+%5BERFAN%5D+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%8E%93;Python+Developer+%F0%9F%90%8D;Backend+%26+Machine+Learning+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,10 +16,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Engineering Student
-- 🐍 Python Developer
-- 💡 Passionate about **Backend Development**, **APIs**, **Machine Learning**, and **Clean Code**
-- 🌱 Always learning, always shipping
+```python
+about_me = {
+    "name": "Erfan Jamali",
+    "nickname": "ERF",
+    "birthday": "2004-07-03",
+    "skills": "python, scikit-learn, FastAPI, ..."
+}
+```
 
 ---
 
