@@ -1,6 +1,6 @@
 <!-- ======================= ANIMATED WELCOME HEADER ======================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F9DFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Erfan;Computer+Engineering+Student;Python+Backend+Developer;Learning+AI+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F9DFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Erfan;Computer+Engineering+Student;Python+Developer;Learning+AI+Engineering" alt="Typing SVG" />
 </h1>
 
 ---
